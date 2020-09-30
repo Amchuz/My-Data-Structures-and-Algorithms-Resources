@@ -8,6 +8,8 @@
 ## Videos :
   
 ## Courses :
+  
+- <a href="https://www.coursera.org/specializations/data-structures-algorithms">Data Structures and Algorithms [Specialization]</a>
 
 ## Websites :
   
